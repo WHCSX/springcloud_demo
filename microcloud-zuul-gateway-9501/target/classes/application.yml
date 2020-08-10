@@ -1,0 +1,35 @@
+server:
+  port: 9501
+
+spring:
+  application:
+    name: microcloud-zuul-gateway #为此微服务设置一个名字
+  security:
+    user:
+      name: zdmin
+      password: mldnjava
+
+eureka: #客户端进行Eureka注册的配置
+  client:
+    service-url:
+      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka/,http://edmin:mldnjava@eureka-7002.com:7002/eureka/,http://edmin:mldnjava@eureka-7003.com:7003/eureka/
+  instance:
+    instance-id: zuul-gateway-9501.com  #在信息列表时显示主机名称
+    prefer-ip-address: true #访问的路径变为IP地址
+
+info: #追加info的相关信息
+  app:
+    name: mldn-microcloud
+    version: v1.0.0
+  company:
+    name: www.mldn.cn
+  pom:
+    artifactId: microcloud-zuul-gateway-9501
+    version: 1.0.0
+
+zuul:
+  prefix: /mldn-proxy #设置公共前缀
+  routes:
+    microcloud-provider-dept: /dept-proxy/**  #为指定的应用设置路由
+  ignored-services: "*"  #忽略掉应用名称
+  sensitive-headers:  #配置过滤敏感的请求头信息，设置为空就不会过滤

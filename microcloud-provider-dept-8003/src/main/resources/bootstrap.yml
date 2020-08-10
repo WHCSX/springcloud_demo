@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    config:
+      name: microcloud-provider-dept-8003  #定义要读取的资源文件的名称
+      profile: dev #定义profile的名称
+      label: dev #定义配置文件所在的分支
+      #uri: http://mldnjava:hello@config-7101.com:7101  #SpringCloudConfig的服务地址
+      username: mldnjava  #config服务注册到Eureka中后需要通过注册中心的服务ID进行访问
+      password: hello
+      discovery:
+        enabled: true #通过配置中心加载配置文件
+        service-id: MICROCLOUD-CONFIG #在eureka之中注册的服务ID
+
+eureka: #一定要编写一个eureka的地址
+  client: #目的是为了让客户端可以通过eureka找到SpringCloudConfig微服务
+    service-url:
+      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka/,http://edmin:mldnjava@eureka-7002.com:7002/eureka/,http://edmin:mldnjava@eureka-7003.com:7003/eureka/

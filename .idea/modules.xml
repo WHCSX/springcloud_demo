@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microcloud-api/microcloud-api.iml" filepath="$PROJECT_DIR$/microcloud-api/microcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-config-7101/microcloud-config-7101.iml" filepath="$PROJECT_DIR$/microcloud-config-7101/microcloud-config-7101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-consumer-80/microcloud-consumer-80.iml" filepath="$PROJECT_DIR$/microcloud-consumer-80/microcloud-consumer-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka-7001/microcloud-eureka-7001.iml" filepath="$PROJECT_DIR$/microcloud-eureka-7001/microcloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka-7002/microcloud-eureka-7002.iml" filepath="$PROJECT_DIR$/microcloud-eureka-7002/microcloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-eureka-7003/microcloud-eureka-7003.iml" filepath="$PROJECT_DIR$/microcloud-eureka-7003/microcloud-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-hystrix-dashboard-9001/microcloud-hystrix-dashboard-9001.iml" filepath="$PROJECT_DIR$/microcloud-hystrix-dashboard-9001/microcloud-hystrix-dashboard-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" filepath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-dept-8001/microcloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/microcloud-provider-dept-8001/microcloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-dept-8002/microcloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/microcloud-provider-dept-8002/microcloud-provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-provider-dept-8003/microcloud-provider-dept-8003.iml" filepath="$PROJECT_DIR$/microcloud-provider-dept-8003/microcloud-provider-dept-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-security/microcloud-security.iml" filepath="$PROJECT_DIR$/microcloud-security/microcloud-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-service/microcloud-service.iml" filepath="$PROJECT_DIR$/microcloud-service/microcloud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microcloud-zuul-gateway-9501/microcloud-zuul-gateway-9501.iml" filepath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/microcloud-zuul-gateway-9501.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo.iml" filepath="$PROJECT_DIR$/springcloud-demo.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microcloud-zuul-gateway-9501" />
+        <module name="microcloud-consumer-80" />
+        <module name="microcloud-provider-dept-8002" />
+        <module name="microcloud-api" />
+        <module name="microcloud-config-7101" />
+        <module name="microcloud-provider-dept-8003" />
+        <module name="microcloud-security" />
+        <module name="microcloud-service" />
+        <module name="microcloud-eureka-7003" />
+        <module name="microcloud-eureka-7002" />
+        <module name="microcloud-eureka-7001" />
+        <module name="microcloud-hystrix-turbine-9101" />
+        <module name="microcloud-hystrix-dashboard-9001" />
+        <module name="microcloud-provider-dept-8001" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microcloud-api" target="1.8" />
+      <module name="microcloud-config-7101" target="1.8" />
+      <module name="microcloud-consumer-80" target="1.8" />
+      <module name="microcloud-eureka-7001" target="1.8" />
+      <module name="microcloud-eureka-7002" target="1.8" />
+      <module name="microcloud-eureka-7003" target="1.8" />
+      <module name="microcloud-hystrix-dashboard-9001" target="1.8" />
+      <module name="microcloud-hystrix-turbine-9101" target="1.8" />
+      <module name="microcloud-provider-dept-8001" target="1.8" />
+      <module name="microcloud-provider-dept-8002" target="1.8" />
+      <module name="microcloud-provider-dept-8003" target="1.8" />
+      <module name="microcloud-security" target="1.8" />
+      <module name="microcloud-service" target="1.8" />
+      <module name="microcloud-zuul-gateway-9501" target="1.8" />
+      <module name="springcloud-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microcloud-api" options="" />
+      <module name="microcloud-consumer-80" options="" />
+      <module name="microcloud-eureka-7001" options="" />
+      <module name="microcloud-eureka-7002" options="" />
+      <module name="microcloud-eureka-7003" options="" />
+      <module name="microcloud-provider-dept-8001" options="" />
+      <module name="microcloud-security" options="" />
+    </option>
+  </component>
+</project>

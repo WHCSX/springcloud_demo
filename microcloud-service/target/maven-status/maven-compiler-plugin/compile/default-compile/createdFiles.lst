@@ -1,0 +1,6 @@
+com\bjsxt\service\IDeptClientZuulService.class
+com\bjsxt\component\IDeptClientServiceFallbackFactory.class
+com\bjsxt\config\FeignClientConfig.class
+com\bjsxt\config\FeignClientZuulConfig.class
+com\bjsxt\component\IDeptClientServiceFallbackFactory$1.class
+com\bjsxt\service\IDeptClientService.class
