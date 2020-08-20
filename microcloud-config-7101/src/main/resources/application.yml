@@ -28,7 +28,7 @@ encrypt:
 eureka:
   client:
     service-url:
-      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka/,http://edmin:mldnjava@eureka-7002.com:7002/eureka/,http://edmin:mldnjava@eureka-7003.com:7003/eureka/
+      defaultZone: http://edmin:mldnjava@192.168.2.176:7001/eureka/,http://edmin:mldnjava@192.168.2.176:7002/eureka/,http://edmin:mldnjava@192.168.2.176:7003/eureka/
   instance:
     prefer-ip-address: true #在地址栏上使用IP地址进行显示
     instance-id: config-7101.com  #在信息列表时显示主机名称

@@ -5,7 +5,7 @@ eureka: #eureka实例定义
   client:
     register-with-eureka: false # false：不向注册中心注册自己
     service-url:  #客户端进行Eureka注册的配置
-      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka/,http://edmin:mldnjava@eureka-7002.com:7002/eureka/,http://edmin:mldnjava@eureka-7003.com:7003/eureka/
+      defaultZone: http://edmin:mldnjava@192.168.2.176:7001/eureka/,http://edmin:mldnjava@192.168.2.176:7002/eureka/,http://edmin:mldnjava@192.168.2.176:7003/eureka/
 feign:
   compression:
     request:

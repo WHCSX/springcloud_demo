@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="" />
+    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="测试IDEA结合GIT">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-config-7101/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-config-7101/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-config-7101/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-config-7101/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-consumer-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-consumer-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/java/com/bjsxt/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/java/com/bjsxt/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/com/bjsxt/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/com/bjsxt/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/microcloud-provider-dept-8001.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/microcloud-provider-dept-8001.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8002/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8002/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8003/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8003/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/target/classes/application.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +52,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -38,6 +69,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1fhgqzj6JPqpMVHBvzwlsJcSayK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -45,7 +77,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/java/com/bjsxt/rest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -233,8 +265,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Zuul_Gateway_9501_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Dept_8003_StartSpringCloudApplication" />
+        <item itemvalue="Spring Boot.Zuul_Gateway_9501_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Config_7101_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Eureka_7003_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Hystrix_Turbine_9101_StartSpringCloudApplication" />
@@ -261,11 +293,41 @@
       <workItem from="1596847153735" duration="6290000" />
       <workItem from="1596853811137" duration="23426000" />
       <workItem from="1596934650439" duration="25635000" />
-      <workItem from="1597028354236" duration="8600000" />
+      <workItem from="1597028354236" duration="8773000" />
+      <workItem from="1597049162880" duration="1902000" />
+      <workItem from="1597196451099" duration="3291000" />
+      <workItem from="1597209331158" duration="3759000" />
+      <workItem from="1597558010209" duration="3608000" />
+      <workItem from="1597900055283" duration="9999000" />
     </task>
+    <task id="LOCAL-00001" summary="测试IDEA结合GIT">
+      <created>1597559430483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597559430483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试IDEA结合GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试IDEA结合GIT" />
   </component>
 </project>
