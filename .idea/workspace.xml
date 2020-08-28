@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="测试IDEA结合GIT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-config-7101/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-config-7101/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-config-7101/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-config-7101/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-consumer-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-consumer-80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/microcloud-hystrix-turbine-9101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-hystrix-turbine-9101/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/java/com/bjsxt/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/java/com/bjsxt/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/com/bjsxt/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/classes/com/bjsxt/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/microcloud-provider-dept-8001.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8001/target/microcloud-provider-dept-8001.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8002/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8002/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-provider-dept-8003/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-provider-dept-8003/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microcloud-zuul-gateway-9501/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev_csx" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Consumer_80_StartSpringCloudApplication">
+  <component name="RunManager" selected="Spring Boot.Hystrix_Turbine_9101_StartSpringCloudApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="springcloud-demo" />
       <option name="VM_PARAMETERS" />
@@ -265,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Dept_8003_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Zuul_Gateway_9501_StartSpringCloudApplication" />
-        <item itemvalue="Spring Boot.Config_7101_StartSpringCloudApplication" />
-        <item itemvalue="Spring Boot.Eureka_7003_StartSpringCloudApplication" />
         <item itemvalue="Spring Boot.Hystrix_Turbine_9101_StartSpringCloudApplication" />
+        <item itemvalue="Spring Boot.Eureka_7003_StartSpringCloudApplication" />
+        <item itemvalue="Spring Boot.Dept_8003_StartSpringCloudApplication" />
+        <item itemvalue="Spring Boot.Config_7101_StartSpringCloudApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -299,6 +278,7 @@
       <workItem from="1597209331158" duration="3759000" />
       <workItem from="1597558010209" duration="3608000" />
       <workItem from="1597900055283" duration="9999000" />
+      <workItem from="1598577211939" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="测试IDEA结合GIT">
       <created>1597559430483</created>
@@ -328,6 +308,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试IDEA结合GIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试IDEA结合GIT" />
+    <MESSAGE value="8-27测试IDEA结合GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="8-27测试IDEA结合GIT" />
   </component>
 </project>
