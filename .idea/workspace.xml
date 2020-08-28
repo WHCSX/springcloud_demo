@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="测试IDEA结合GIT" />
+    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +83,11 @@
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -92,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Hystrix_Turbine_9101_StartSpringCloudApplication">
+  <component name="RunManager" selected="Spring Boot.Eureka_7001_StartSpringCloudApplication">
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="springcloud-demo" />
       <option name="VM_PARAMETERS" />
@@ -277,6 +284,7 @@
       <workItem from="1597558010209" duration="3608000" />
       <workItem from="1597900055283" duration="9999000" />
       <workItem from="1598577211939" duration="709000" />
+      <workItem from="1598599242608" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="测试IDEA结合GIT">
       <created>1597559430483</created>
@@ -285,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597559430483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="8-28测试IDEA结合GIT">
+      <created>1598598041853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598598041853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="8-28测试IDEA结合GIT">
+      <created>1598598216738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598598216738</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +329,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试IDEA结合GIT" />
     <MESSAGE value="8-27测试IDEA结合GIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="8-27测试IDEA结合GIT" />
+    <MESSAGE value="8-28测试IDEA结合GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="8-28测试IDEA结合GIT" />
   </component>
 </project>
