@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="测试IDEA结合GIT">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b7c06e6-36d9-4a05-b292-0c5b3f86cb73" name="Default Changelist" comment="测试IDEA结合GIT" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev_csx" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -278,7 +276,7 @@
       <workItem from="1597209331158" duration="3759000" />
       <workItem from="1597558010209" duration="3608000" />
       <workItem from="1597900055283" duration="9999000" />
-      <workItem from="1598577211939" duration="437000" />
+      <workItem from="1598577211939" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="测试IDEA结合GIT">
       <created>1597559430483</created>
